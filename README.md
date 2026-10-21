@@ -9,4 +9,4 @@ Contents (package names unchanged from the gateway project):
 * `org.nhindirect.gateway.GatewayConfiguration`
 * `org.nhindirect.gateway.smtp.NotificationProducer`, `NotificationSettings`, `ReliableDispatchedNotificationProducer`
 * `org.nhindirect.gateway.smtp.dsn.DSNCreator`
-* `org.nhindirect.gateway.smtp.dsn.impl.AbstractDSNCreator`, `FailedDeliveryDSNCreator`, `FailedDeliveryDSNCreatorOptions`
+* `org.nhindirect.gateway.smtp.dsn.impl.AbstractDSNCreator`, `FailedDeliveryDSNCreator`, `FailedDeliveryDSNCreatorOptions`, `RejectedRecipientDSNCreator`, `RejectedRecipientDSNCreatorOptions`
